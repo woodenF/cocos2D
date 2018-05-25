@@ -1,0 +1,52 @@
+2018-05-25T02:48:11.889Z - normal: Load ~/.CocosCreator/settings.json
+2018-05-25T02:48:11.893Z - normal: checking language setting...
+2018-05-25T02:48:11.894Z - normal: Language: zh
+2018-05-25T02:48:12.581Z - success: protocol editor-framework registered
+2018-05-25T02:48:12.581Z - success: protocol app registered
+2018-05-25T02:48:12.581Z - success: protocol theme registered
+2018-05-25T02:48:12.581Z - success: protocol packages registered
+2018-05-25T02:48:12.582Z - success: protocol unpack registerred
+2018-05-25T02:48:12.582Z - success: protocol disable-commonjs registerred
+2018-05-25T02:48:12.826Z - normal: connected!
+2018-05-25T02:48:12.828Z - normal: Check project /private/var/root/Desktop/Git-Repositpory/cocos2D
+2018-05-25T02:48:12.831Z - normal: Initializing Cocos2d
+2018-05-25T02:48:13.030Z - normal: Initializing Asset Database
+2018-05-25T02:48:13.062Z - success: protocol uuid registerred
+2018-05-25T02:48:13.062Z - success: protocol db registerred
+2018-05-25T02:48:13.062Z - success: protocol thumbnail registerred
+2018-05-25T02:48:13.062Z - normal: Loading editor/builtin packages
+2018-05-25T02:48:13.082Z - success: anysdk loaded
+2018-05-25T02:48:13.196Z - success: assets loaded
+2018-05-25T02:48:13.200Z - success: builder loaded
+2018-05-25T02:48:13.202Z - success: cocos-analytics loaded
+2018-05-25T02:48:13.207Z - success: console loaded
+2018-05-25T02:48:13.213Z - success: hierarchy loaded
+2018-05-25T02:48:13.218Z - success: inspector loaded
+2018-05-25T02:48:13.220Z - success: keystore loaded
+2018-05-25T02:48:13.224Z - success: node-library loaded
+2018-05-25T02:48:13.226Z - success: package-asset loaded
+2018-05-25T02:48:13.229Z - success: preferences loaded
+2018-05-25T02:48:13.232Z - success: project-exporter loaded
+2018-05-25T02:48:13.249Z - success: project-importer loaded
+2018-05-25T02:48:13.254Z - success: project-settings loaded
+2018-05-25T02:48:13.257Z - success: ui-kit loaded
+2018-05-25T02:48:13.263Z - success: ui-grid loaded
+2018-05-25T02:48:13.268Z - success: scene loaded
+2018-05-25T02:48:13.269Z - success: sprite-editor loaded
+2018-05-25T02:48:13.274Z - success: store loaded
+2018-05-25T02:48:13.280Z - success: timeline loaded
+2018-05-25T02:48:13.281Z - normal: Loading builtin packages
+2018-05-25T02:48:13.285Z - success: asset-db-debugger loaded
+2018-05-25T02:48:13.286Z - success: color-picker loaded
+2018-05-25T02:48:13.290Z - success: package-manager loaded
+2018-05-25T02:48:13.302Z - success: sdkbox loaded
+2018-05-25T02:48:13.306Z - success: tester loaded
+2018-05-25T02:48:13.315Z - success: ui-kit-preview-extra loaded
+2018-05-25T02:48:13.319Z - success: ui-kit-preview loaded
+2018-05-25T02:48:13.322Z - success: ui-tree loaded
+2018-05-25T02:48:14.312Z - normal: Initializing project /private/var/root/Desktop/Git-Repositpory/cocos2D
+2018-05-25T02:48:14.314Z - normal: Loading packages
+2018-05-25T02:48:14.319Z - normal: Watching packages
+2018-05-25T02:48:14.334Z - normal: Run Application
+2018-05-25T02:48:14.757Z - success: preview server running at http://localhost:7456
+2018-05-25T02:48:19.707Z - normal: 1.8.1
